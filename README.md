@@ -1,13 +1,23 @@
-<h1 align="center">Hi, I'm Simon</h1>
-<h3 align="center">I am a student from the Faculty of Science and Technology of the University of Silesia. I have commercial experience in creating applications. I am open to new technologies and programming solutions. In my free time, I am an active member of the international e-sports group Team Elder Blood, which brings together the best players of the competitive Gwent game.</h3>
+<link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
+
+<!-- <style>
+    .custom-font {
+        font-family: 'Raleway', sans-serif;
+    }
+</style> -->
+
+<h1 align="center" class="custom-font">Hi, I'm Simon</h1>
+<h3 align="center" >I am a student from the Faculty of Science and Technology of the University of Silesia. I have commercial experience in creating applications. I am open to new technologies and programming solutions. 
+  <p>
+    In my free time, I am an active member of the international e-sports group Team Elder Blood, which brings together the best players of the competitive Gwent game.</h3>
 
 - 🐜 Program simulating the behavior of ants based on the swarm algorithm [Swarm alghoritm](https://github.com/Ratamahattaa/SwarmAlgorithm)
-
-- 🌱 I’m currently learning **Angular, MySQL, JavaScript**
 
 - Message encryption based on text files [Coded message](https://github.com/Ratamahattaa/CodedMessage)
 
 - Managing tasks saved to the json database [Task library](https://github.com/Ratamahattaa/Task-library)
+
+- 🌱 I’m currently learning **Angular, MySQL, JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
