@@ -10,12 +10,17 @@
 <h3 align="center" >I am a student from the Faculty of Science and Technology of the University of Silesia. I have commercial experience in creating applications. I am open to new technologies and programming solutions. 
   <p>
     In my free time, I am an active member of the international e-sports group Team Elder Blood, which brings together the best players of the competitive Gwent game.</h3>
+    
+ <h4> A few words about my projects: </h3>
 
-- 🐜 Program simulating the behavior of ants based on the swarm algorithm [Swarm alghoritm](https://github.com/Ratamahattaa/SwarmAlgorithm)
+- I turned my passion for artificial intelligence algorithms into a swarm algorithm.
+🐜 The program simulates the behavior of ants and their way of looking for a way to the cell, which is generated randomly. [Swarm alghoritm](https://github.com/Ratamahattaa/SwarmAlgorithm)
 
-- Message encryption based on text files [Coded message](https://github.com/Ratamahattaa/CodedMessage)
+- In one of my favorite installments of the Call of Duty game series, I came across a mission to decrypt a message. I liked the mechanics so much that I wrote a program based on the one in the game that encrypts the message based on pseudo-random numbers.
+💾 Message encryption based on text files [Coded message](https://github.com/Ratamahattaa/CodedMessage)
 
-- Managing tasks saved to the json database [Task library](https://github.com/Ratamahattaa/Task-library)
+- As part of learning to operate on json files, I wrote a program that manages a database of daily tasks.
+📋 As part of managing facilities, we can edit them along with deadlines, add new tasks and delete existing tasks. [Task library](https://github.com/Ratamahattaa/Task-library)
 
 - 🌱 I’m currently learning **Angular, MySQL, JavaScript**
 
@@ -32,6 +37,7 @@
 <h3 align="left">Backend Development:</h3>
 <p align="left"> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 </p>
     
 <h3 align="left">Frontend Development:</h3>
@@ -39,7 +45,7 @@
 </p>
      
 <h3 align="left">Devops:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
 
