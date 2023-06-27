@@ -7,7 +7,7 @@
 </style> -->
 
 <h1 align="center" class="custom-font">Hi, I'm Simon</h1>
-<img src=""C:\Users\disas\Desktop\Bez tytułu.jpg"" alt="Your Image" style="display: block; margin: 0 auto;">
+<img src="Bez tytułu.jpg" alt="Your Image" style="display: block; margin: 0 auto;">
 <h3 align="center" >I am a student from the Faculty of Science and Technology of the University of Silesia. I have commercial experience in creating applications. I am open to new technologies and programming solutions. 
   <p>
     In my free time, I am an active member of the international e-sports group Team Elder Blood, which brings together the best players of the competitive Gwent game.</h3>
