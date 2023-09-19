@@ -5,7 +5,7 @@
 <h3 align="center" >I am a student from the Faculty of Science and Technology of the University of Silesia. I have commercial experience in creating applications. I am open to new technologies and programming solutions. 
     In my free time, I am an active member of the international e-sports group Team Elder Blood, which brings together the best players of the competitive Gwent game.</h3>
     
- <h4> A few words about my projects: </h3>
+ <h4> A few words about my projects: </h4>
 
 - I turned my passion for artificial intelligence algorithms into a swarm algorithm.
 🐜 The program simulates the behavior of ants and their way of looking for a way to the cell, which is generated randomly. [Swarm alghoritm](https://github.com/Ratamahattaa/SwarmAlgorithm)
@@ -18,9 +18,11 @@
 
 - 🌱 I’m currently learning **Angular, MySQL, JavaScript**
 
-You can contact me by email **szymonmedrala.it@gmail.com**
+<h4> You can contact me using: </h3>
+[Email] **szymonmedrala.it@gmail.com**
 
-[LinkedIn](https://www.linkedin.com/in/szymon-medrala/)
+[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/szymon-medrala/" height="30" width="40" />](https://www.linkedin.com/in/szymon-medrala/)
+[Discord](rata_mahatta)
 
 <h3 align="left">You can contact me:</h3>
 <p align="left">
