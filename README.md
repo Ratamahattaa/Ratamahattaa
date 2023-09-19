@@ -3,7 +3,6 @@
 <h1 align="center" class="custom-font">Hi, I'm Simon</h1>
 <img src="Bez tytułu.jpg" alt="Your Image" style="display: block; margin: 0 auto;">
 <h3 align="center" >I am a student from the Faculty of Science and Technology of the University of Silesia. I have commercial experience in creating applications. I am open to new technologies and programming solutions. 
-  <p>
     In my free time, I am an active member of the international e-sports group Team Elder Blood, which brings together the best players of the competitive Gwent game.</h3>
     
  <h4> A few words about my projects: </h3>
@@ -20,9 +19,7 @@
 - 🌱 I’m currently learning **Angular, MySQL, JavaScript**
 
 <h3 align="left">Connect with me:</h3>
-- My emial **szymonmedrala.it@gmail.com**
-
-Or ussing my socials
+You can contact me by email **szymonmedrala.it@gmail.com**
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/szymon-medrala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/szymon-medrala/" height="30" width="40" /></a>
 <a href="https://discord.gg/rata_mahatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rata_mahatta" height="30" width="40" /></a>
