@@ -11,7 +11,7 @@
 🐜 The program simulates the behavior of ants and their way of looking for a way to the cell, which is generated randomly. [Swarm alghoritm](https://github.com/Ratamahattaa/SwarmAlgorithm)
 
 - In one of my favorite installments of the Call of Duty game series, I came across a mission to decrypt a message. I liked the mechanics so much that I wrote a program based on the one in the game that encrypts the message based on pseudo-random numbers.
-💾 Message encryption based on text files [Coded message](https://github.com/Ratamahattaa/CodedMessage)
+💾 Message encryption based on text files. [Coded message](https://github.com/Ratamahattaa/CodedMessage)
 
 - As part of learning to operate on json files, I wrote a program that manages a database of daily tasks.
 📋 As part of managing facilities, we can edit them along with deadlines, add new tasks and delete existing tasks. [Task library](https://github.com/Ratamahattaa/Task-library)
