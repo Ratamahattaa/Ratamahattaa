@@ -19,12 +19,16 @@
 
 - 🌱 I’m currently learning **Angular, MySQL, JavaScript**
 
-<h3 align="left">Connect with me by:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="[https://www.java.com](https://www.linkedin.com/feed/)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/> 
-    My LikedIn https://www.linkedin.com/in/szymon-m%C4%99drala/</a>
-<a href="https://discord.gg/rata_mahatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rata_mahatta" height="30" width="40" /></a>
+- My LinkedIn [https://www.linkedin.com/in/szymon-m%C4%99drala/](https://www.linkedin.com/in/szymon-m%C4%99drala/)
 
+- My Discord [rata_mahatta](rata_mahatta)
+
+- My emial **szymonmedrala.it@gmail.com**
+
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/szymon-m%c4%99drala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/szymon-m%c4%99drala/" height="30" width="40" /></a>
+<a href="https://discord.gg/rata_mahatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rata_mahatta" height="30" width="40" /></a>
 </p>
 
 
