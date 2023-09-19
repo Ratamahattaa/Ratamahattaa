@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning **Angular, MySQL, JavaScript**
 
 <h4> You can contact me using: </h3>
-<p align="left">
+<p>
     
 Email **szymonmedrala.it@gmail.com**
     
