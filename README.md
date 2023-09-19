@@ -20,7 +20,7 @@
 
 You can contact me by email **szymonmedrala.it@gmail.com**
 
-LinkedIn(https://www.linkedin.com/in/szymon-medrala/)
+[LinkedIn](https://www.linkedin.com/in/szymon-medrala/)
 
 <h3 align="left">You can contact me:</h3>
 <p align="left">
