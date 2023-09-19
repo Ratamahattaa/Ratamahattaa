@@ -19,17 +19,13 @@
 - 🌱 I’m currently learning **Angular, MySQL, JavaScript**
 
 <h4> You can contact me using: </h3>
-[Email] **szymonmedrala.it@gmail.com**
-
-[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/szymon-medrala/" height="30" width="40" />](https://www.linkedin.com/in/szymon-medrala/)
-[Discord](rata_mahatta)
-
-<h3 align="left">You can contact me:</h3>
 <p align="left">
-LinkedIn(https://www.linkedin.com/in/szymon-medrala/)
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/szymon-medrala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/szymon-medrala/" height="30" width="40" /></a>
-<a href="https://discord.gg/rata_mahatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rata_mahatta" height="30" width="40" /></a>
+Email **szymonmedrala.it@gmail.com**
+[Email](szymonmedrala.it@gmail.com)
+[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/szymon-medrala/" height="30" width="40" />](https://www.linkedin.com/in/szymon-medrala/)
+[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rata_mahatta" height="30" width="40" />](rata_mahatta)
 </p>
+
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left"> 
