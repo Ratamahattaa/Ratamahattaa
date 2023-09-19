@@ -22,6 +22,7 @@ You can contact me by email **szymonmedrala.it@gmail.com**
 
 <h3 align="left">Check out my socials too:</h3>
 <p align="left">
+<a href="[https://us.edu.pl/](https://linkedin.com/in/https://www.linkedin.com/in/szymon-medrala/)">My LinkedIn</a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/szymon-medrala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/szymon-medrala/" height="30" width="40" /></a>
 <a href="https://discord.gg/rata_mahatta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rata_mahatta" height="30" width="40" /></a>
 </p>
