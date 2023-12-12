@@ -1,4 +1,4 @@
-<link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
+![image](https://github.com/Ratamahattaa/Ratamahattaa/blob/master/kelli.png)<link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
 
 <h1 align="center" class="custom-font">Hi, I'm Simon</h1>
 <img src="Bez tytułu.jpg" alt="Your Image" style="display: block; margin: 0 auto;">
