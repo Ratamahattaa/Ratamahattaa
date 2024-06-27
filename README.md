@@ -16,8 +16,7 @@
 - As part of learning to operate on json files, I wrote a program that manages a database of daily tasks.
 📋 As part of managing facilities, we can edit them along with deadlines, add new tasks and delete existing tasks. [Task library](https://github.com/Ratamahattaa/Task-library)
 
-- 🌱 I’m currently learning **Angular, MySQL, JavaScript**
-
+- 🌿 My colleague and I have developed a web app that helps busy professionals take care of their plants. 🌱 The app monitors plant health and provides essential data to help your plants thrive, all through a clear and user-friendly interface. [Smart garden](https://github.com/Ratamahattaa/SmartGarden)
 
 <h3 align="left">You can contact me using:</h3>
 <p>   
@@ -39,11 +38,15 @@
 <h3 align="left">Backend Development:</h3>
 <p align="left"> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://maven.apache.org/download.cgi" target="_blank" rel="noreferrer"> <img src="icons/maven/maven-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 </p>
     
 <h3 align="left">Frontend Development:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img
 </p>
      
 <h3 align="left">Devops:</h3>
