@@ -39,7 +39,7 @@
 <p align="left"> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://maven.apache.org/download.cgi" target="_blank" rel="noreferrer"> <img src="icons/maven/maven-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://maven.apache.org/download.cgi" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 </p>
     
 <h3 align="left">Frontend Development:</h3>
