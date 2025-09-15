@@ -7,15 +7,17 @@
  <h4> A few words about my projects: </h4>
 
 - I turned my passion for artificial intelligence algorithms into a swarm algorithm.
-🐜 The program simulates the behavior of ants and their way of looking for a way to the cell, which is generated randomly. [Swarm alghoritm](https://github.com/Ratamahattaa/SwarmAlgorithm)
+ The program simulates the behavior of ants and their way of looking for a way to the cell, which is generated randomly. [Swarm alghoritm](https://github.com/Ratamahattaa/SwarmAlgorithm)
 
 - In one of my favorite installments of the Call of Duty game series, I came across a mission to decrypt a message. I liked the mechanics so much that I wrote a program based on the one in the game that encrypts the message based on pseudo-random numbers.
-💾 Message encryption based on text files. [Coded message](https://github.com/Ratamahattaa/CodedMessage)
+  Message encryption based on text files. [Coded message](https://github.com/Ratamahattaa/CodedMessage)
 
 - As part of learning to operate on json files, I wrote a program that manages a database of daily tasks.
-📋 As part of managing facilities, we can edit them along with deadlines, add new tasks and delete existing tasks. [Task library](https://github.com/Ratamahattaa/Task-library)
+  As part of managing facilities, we can edit them along with deadlines, add new tasks and delete existing tasks. [Task library](https://github.com/Ratamahattaa/Task-library)
 
-- 🌿 My colleague and I have developed a web app that helps busy professionals take care of their plants. 🌱 The app monitors plant health and provides essential data to help your plants thrive, all through a clear and user-friendly interface. [Smart garden](https://github.com/Ratamahattaa/SmartGarden)
+- My colleague and I have developed a web app that helps busy professionals take care of their plants. The app monitors plant health and provides essential data to help your plants thrive, all through a clear and user-friendly interface. [Smart garden](https://github.com/Ratamahattaa/SmartGarden)
+
+- While working on several projects, I often had to dig through massive log files to find the root cause of issues. To make this easier, I created Daeva – a log analysis algorithm for system and application text files. [Daeva-Log-Analysis-Algorithm](https://github.com/Ratamahattaa/Daeva-Log-Analysis-Algorithm)
 
 <h3 align="left">You can contact me using:</h3>
 <p>   
