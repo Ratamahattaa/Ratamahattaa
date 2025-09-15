@@ -1,6 +1,6 @@
 <h1 align="center" class="custom-font">Hi, I'm Simon</h1>
 
-![image](https://github.com/Ratamahattaa/Ratamahattaa/blob/master/him.png)<link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
+![image](https://github.com/Ratamahattaa/Ratamahattaa/blob/master/git-main-header.png)<link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
 
 <h3 align="center" >I am a graduate of the Faculty of Science and Technology at the University of Silesia. I have commercial experience in developing applications, maintaining cloud-based systems, and designing application architecture. I am open to new technologies and programming solutions. In my free time, I am an active member of Team Elder Blood, an international e-sports group that brings together some of the best competitive Gwent players.</h3>
     
