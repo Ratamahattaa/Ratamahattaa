@@ -19,13 +19,14 @@
 
 - While working on several projects, I often had to dig through massive log files to find the root cause of issues. To make this easier, I created Daeva – a log analysis algorithm for system and application text files. [Daeva-Log-Analysis-Algorithm](https://github.com/Ratamahattaa/Daeva-Log-Analysis-Algorithm)
 
+- I’ve always been fascinated by how games visualize spreading effects, so I built Scarlet Rot – a visual simulation inspired by the infection mechanic from Elden Ring. [Scarlet-Rot](https://github.com/Ratamahattaa/Scarlet-Rot)
+
 <h3 align="left">You can contact me using:</h3>
 <p>   
     
 - Email *szymonmedrala.it@gmail.com*
     
 - LinedIn [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/szymon-medrala/" height="30" width="40" />](https://www.linkedin.com/in/szymon-medrala/)
-- Discord [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rata_mahatta" height="40" width="50" />](rata_mahatta)
 </p>
 
 ![image1406](https://github.com/Ratamahattaa/Ratamahattaa/blob/master/git-wallpaper.png)
