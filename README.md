@@ -27,5 +27,4 @@
 - Discord [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rata_mahatta" height="40" width="50" />](rata_mahatta)
 </p>
 
-![image1406](https://github.com/Ratamahattaa/Ratamahattaa/assets/61981925/6d67cc77-0950-4754-83b7-8fe4c4fcadb1)
 ![image1406](https://github.com/Ratamahattaa/Ratamahattaa/blob/master/git-wallpaper.png)
