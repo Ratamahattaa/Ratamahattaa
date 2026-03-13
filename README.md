@@ -3,29 +3,17 @@
 ![image](https://github.com/Ratamahattaa/Ratamahattaa/blob/master/git-main-header.png)<link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
 
 <h3 style="text-align: center;">
-  I am a graduate of the Faculty of Science and Technology at the University of Silesia. 
-  I have commercial experience in developing applications, maintaining cloud-based systems, 
-  and designing application architecture. I am open to new technologies and programming solutions. 
-  In my free time, I am an active member of Team Elder Blood, an international e-sports group that 
-  brings together some of the best competitive Gwent players.
+  I'm a software engineer focused on backend development, cloud technologies, 
+  and designing scalable application architectures.  I graduated from 
+  the Faculty of Science and Technology at the University of Silesia and have 
+  commercial experience in building applications, maintaining cloud-based systems, 
+  and improving development workflows.
+
+ I enjoy exploring new technologies, working with data analysis, and tracking emerging 
+ trends to build solutions that address real-world challenges.  
+ In my free time, I'm an active member of **Team Elder Blood**, an international e‑sports 
+ group gathering top competitive Gwent players.
 </h3>
-    
- <h4> A few words about my projects: </h4>
-
-- I turned my passion for artificial intelligence algorithms into a swarm algorithm.
- The program simulates the behavior of ants and their way of looking for a way to the cell, which is generated randomly. [Swarm alghoritm](https://github.com/Ratamahattaa/SwarmAlgorithm)
-
-- In one of my favorite installments of the Call of Duty game series, I came across a mission to decrypt a message. I liked the mechanics so much that I wrote a program based on the one in the game that encrypts the message based on pseudo-random numbers.
-  Message encryption based on text files. [Coded message](https://github.com/Ratamahattaa/CodedMessage)
-
-- As part of learning to operate on json files, I wrote a program that manages a database of daily tasks.
-  As part of managing facilities, we can edit them along with deadlines, add new tasks and delete existing tasks. [Task library](https://github.com/Ratamahattaa/Task-library)
-
-- My colleague and I have developed a web app that helps busy professionals take care of their plants. The app monitors plant health and provides essential data to help your plants thrive, all through a clear and user-friendly interface. [Smart garden](https://github.com/Ratamahattaa/SmartGarden)
-
-- While working on several projects, I often had to dig through massive log files to find the root cause of issues. To make this easier, I created Daeva – a log analysis algorithm for system and application text files. [Daeva-Log-Analysis-Algorithm](https://github.com/Ratamahattaa/Daeva-Log-Analysis-Algorithm)
-
-- I’ve always been fascinated by how games visualize spreading effects, so I built Scarlet Rot – a visual simulation inspired by the infection mechanic from Elden Ring. [Scarlet-Rot](https://github.com/Ratamahattaa/Scarlet-Rot)
 
 <h3 align="left">You can contact me using:</h3>
 <p>   
