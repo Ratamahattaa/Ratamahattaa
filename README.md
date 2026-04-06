@@ -1,58 +1,57 @@
 # Szymon  
-### Financial Technology Engineer • Risk & Analytics • Cloud-Native Platforms
+### Software Engineer • Financial Systems • Cloud & Data Engineering
 
-I engineer analytical and data‑intensive platforms supporting risk, compliance, and investment‑grade decision processes. My work integrates quantitative methods, backend engineering, and cloud architecture to deliver systems aligned with institutional standards for reliability, auditability, and scale.
+I develop backend, analytical, and cloud‑native systems supporting financial operations, risk processes, and enterprise data workflows. My work emphasizes reliability, scalability, and adherence to engineering and governance standards expected in large financial organizations.
 
-I hold a degree from the University of Silesia and have experience building solutions used in risk analytics, fraud detection, and enterprise data processing across regulated environments.
+I hold a degree from the University of Silesia and have experience delivering production‑grade solutions across backend engineering, data processing, and risk‑oriented analytics.
 
 ---
 
-## Areas of Expertise
+## Core Competencies
 
-### **Risk & Analytical Engineering**
-- Time‑series modeling, volatility analysis, scenario simulation  
-- Fraud analytics, anomaly detection, behavioral risk scoring  
-- Statistical modeling, dimensionality reduction, feature engineering  
-- Model interpretability, data lineage, audit‑ready workflows  
+### **Financial Systems & Analytics**
+- Time‑series analysis, forecasting, trend modeling  
+- Fraud detection, anomaly identification, risk scoring  
+- Statistical modeling, feature engineering, model evaluation  
 
-### **Enterprise Backend Engineering**
-- Distributed systems, microservices, event‑driven architectures  
-- High‑availability platforms, performance optimization, system resilience  
+### **Backend Engineering**
+- Microservices, distributed systems, event‑driven architectures  
+- REST API design, system performance, reliability engineering  
 - Java (Spring Boot), TypeScript, Node.js  
 
-### **Cloud & Infrastructure**
+### **Cloud & DevOps**
 - AWS (EC2, S3, Lambda, IAM, CloudWatch)  
 - Terraform, Kubernetes, Docker  
-- CI/CD automation with GitHub Actions  
+- CI/CD pipelines with GitHub Actions  
 
 ### **Data Engineering**
-- SQL (MS SQL Server), ETL pipelines, data governance  
+- SQL (MS SQL Server), ETL development, data quality  
 - Python (Pandas, NumPy, Scikit‑Learn)  
-- Large‑scale data workflows and automation  
+- Automation of analytical and operational workflows  
 
 ---
 
 ## Representative Projects
 
 ### **CDPROJEKT‑STOCK‑FORECAST**  
-*Market Forecasting & Time‑Series Analysis*  
-Developed a forecasting engine analyzing multi‑year market data to model price dynamics and volatility patterns.  
-Includes ARIMA modeling, technical indicators, and scenario‑based projections.
+*Time‑Series Forecasting & Market Analysis*  
+Built a forecasting model analyzing multi‑year market data to support exploratory research and scenario evaluation.  
+Includes ARIMA modeling and technical indicators.
 
 ### **FRAUD‑DETECTION**  
 *Machine Learning for Transactional Risk*  
-Designed a fraud detection pipeline using PCA, SMOTE, and XGBoost to enhance anomaly identification across imbalanced datasets.  
-Includes model evaluation, feature analysis, and interpretability components.
+Developed a fraud detection pipeline using PCA, SMOTE, and XGBoost to improve anomaly detection across imbalanced datasets.  
+Includes model benchmarking and feature analysis.
 
 ### **Financial‑Crime‑Intelligence‑System**  
-*AML / KYC Analytics & Network Risk Scoring*  
-Implemented a machine‑learning system for detecting suspicious activity in transaction networks using Isolation Forest and LOF.  
-Includes risk scoring, graph‑based analysis, and audit‑aligned reporting.
+*AML / KYC Analytics*  
+Implemented an anomaly‑based detection system using Isolation Forest and LOF to identify suspicious activity in transaction networks.  
+Includes risk scoring and structured reporting.
 
 ### **SwarmAlgorithm**  
-*Heuristic Optimization Research*  
-Developed a swarm‑based optimization algorithm for solving the Traveling Salesman Problem.  
-Focus on convergence behavior, heuristic performance, and algorithmic efficiency.
+*Optimization Research*  
+Created a swarm‑based heuristic for solving the Traveling Salesman Problem.  
+Focus on algorithmic performance and convergence stability.
 
 ---
 
@@ -74,4 +73,4 @@ Focus on convergence behavior, heuristic performance, and algorithmic efficiency
 **Location:** Katowice / Kraków, Poland  
 
 **Open to roles in:**  
-Risk Technology • Financial Analytics • Cloud Engineering • Data Platforms
+Financial Engineering • Backend Systems • Cloud & Data Platforms
